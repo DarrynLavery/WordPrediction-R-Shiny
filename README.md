@@ -9,7 +9,7 @@ was built as part of the Capstone project for the Data Science
 specialization offered by Johns Hopkins University through Coursera.
 
 A demo coded in R and Shiny can be found here at
-<https://dlcoursera.shinyapps.io/WordPredictor/>
+<https://dlcoursera.shinyapps.io/wordpredictor/>
 
 The UI can be seen below. As the user types in their sentence, the
 system makes suggestions for the next possible word in real time. The
